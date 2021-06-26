@@ -1,0 +1,33 @@
+
+<header id="logo">
+  <img src="../public/images/cookingorama_logo-02.png" alt="Cookingorama Logo">
+  <button class="log-out">LOG OUT</button>
+</header>
+{{!-- //Couse Name  --}}
+<div class="course_name">
+    <h1>{{{course_name}}}</h1>
+</div>
+{{!-- Recipes--}}
+<div class="recipe_placeholder">
+    <section>
+    <h3>Banana Bread</h3><img href="https://localhost:3001/recipes" src="https://res.cloudinary.com/albertovp/image/upload/v1624581321/Cookingorama/Banan_bread_shc0v7.png" text="Banana Bread" alt="Banana Bread Image"/>
+     <h3>Pulled Pork Sandwish</h3><img href="https://localhost:3001/recipes" src="https://res.cloudinary.com/albertovp/image/upload/v1624581316/Cookingorama/Pulled_pork_ysbdfg.jpg" text="Pulled Pork Sandwish" alt="Pulled Pork Sandwish Image"/>
+    <h3>Low Carb Breakfast Frittata</h3><img href="https://localhost:3001/recipes" src="https://res.cloudinary.com/albertovp/image/upload/v1624581316/Cookingorama/Frittata_galzmj.jpg" text="Low Carb Breakfast Frittata" alt="Low Carb Breakfast Frittata Image"/>
+    <h3>Tzatziki</h3><img href="https://localhost:3001/recipes" src="https://res.cloudinary.com/albertovp/image/upload/v1624587076/Cookingorama/best-tzatziki-recipe-1_dkxf3r.jpg" text="Tzatziki" alt="Tzatziki Image"/>
+    <h3>Skillet Chocolate Chip Cookie</h3><img href="https://localhost:3001/recipes" src="https://res.cloudinary.com/albertovp/image/upload/v1624581318/Cookingorama/Skillet-chocolate-chip-cookie_pfe0q5.jpg" text="Skillet Chocolate Chip Cookie" alt="Skillet Chocolate Chip Cookie Image"/>
+    </section>
+       <section>
+    <h3>Lobster and Tarragon Risotto</h3><img href="https://localhost:3001/recipes" src="https://res.cloudinary.com/albertovp/image/upload/v1624581317/Cookingorama/Creamy-Lobster-Risotto-Recipe-web-2_fzfzgw.jpg" text="Lobster and Tarragon Risotto" alt="Lobster and Tarragon Risotto Image"/>
+    <h3>Simple Granola</h3><img src="https://res.cloudinary.com/albertovp/image/upload/v1624581317/Cookingorama/Simple_Granola_sytt8i.jpg" text="Simple Granola" alt="Simple Granola Image"/>
+    <img src="./assets/images/image-8.png" text="Recipe  name 8" alt="Recipe  name 8"/>
+    <img src="./assets/images/image-9.png" text="Recipe  name 9" alt="Recipe  name 9"/>
+    <img src="./assets/images/image-10.png" text="Recipe  name 10" alt="Recipe  name 10"/>
+    </section>
+    {{!-- <a href=""><img src="/" alt="recipe_name"></a> --}}
+    {{#each recipes as |recipes|}}
+    <img {{recipes.recipe_photo}}
+  <p>{{recipes.recipe_name}}</p>
+{{/each}}
+
+</div>
+  <button class="homepage">Back to Homepage</button>

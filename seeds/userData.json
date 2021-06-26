@@ -1,0 +1,37 @@
+[
+  {
+    "username": "Gordon Ramsay",
+    "email": "gordon@email.com",
+    "password": "password12345"
+  },
+  {
+    "username": "Guy Fieri",
+    "email": "guy@gmail.com",
+    "password": "password12"
+  },
+  {
+    "username": "Bobby Flay",
+    "email": "bobby@email.com",
+    "password": "p12345d"
+  },
+  {
+    "username": "Jamie Oliver",
+    "email": "jamie@gmail.com",
+    "password": "jampassword1"
+  },
+  {
+    "username": "Giada de Laurentiis",
+    "email": "giada@email.com",
+    "password": "giadpassword2"
+  },
+  {
+    "username": "Rachel Ray",
+    "email": "rachel@email.com",
+    "password": "rach0987"
+  },
+  {
+    "username": "Buddy Balastro",
+    "email": "rbuddy@gmail.com",
+    "password": "cakeboss21"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "recipe_name": "Banana Bread",
+    "recipe_description": "Classic Banana Bread: Sweet, moist and full of flavor.",
+    "recipe_steps": " 1.Preheat oven to 180°C. Grease a deep-sided loaf tin 25 x 10 x 11 cm and set aside. 2.Place ripe bananas into mixing bowl and mash. Serve warm or allow to cool completely before transferring into a sealable container until ready to use.",
+    "ingredients": "banana, eggs, sugar, butter"
+  },
+  {
+    "recipe_name": "Pulled Pork Sandwish",
+    "recipe_description": "Delicious pulled pork with a fresh slaw inside a bun, what could be better",
+    "recipe_steps": "1. In a bowl, place chilli flakes, paprika, mustard powder, salt and pepper then mix together well. Serve hot, in a brioche burger bun, with salad or coleslaw.",
+    "ingredients": "pork, chilli flakes, mustard powder, bun, salt and pepper"  
+  },
+  {
+    "recipe_name": "Low Carb Breakfast Frittata",
+    "recipe_description": "Delicious and guitl free!",
+    "recipe_steps": "1. Preheat oven to 180°C. 2. Grate Cheddar and set aside 8. Serve warm or cold.",
+    "ingredients": "cheddar cheese, eggs, cream, spring onions, parsley, salt and pepper"
+  },
+  {
+    "recipe_name": "Tzatziki",
+    "recipe_description": "Creamy and fresh, greek style, cucumber salad. Perfect for a summer snack!",
+    "recipe_steps": "1. Place diced cucumbers and salt into mixing bowl. 2. Transfer into simmering basket and leave to drain for approx. 5. Serve immediately or refrigerate until ready to use.",
+    "ingredients": "cucumbers, yogurt, mint"
+  },
+  {
+    "recipe_name": "Skillet Chocolate Chip Cookie",
+    "recipe_description": "Delicious desert big enough to share!",
+    "recipe_steps": "1. Preheat oven to 325°F. Grease a skillet (10 in.) and set aside. 2. Place butter and cream cheese into mixing bowl and mix. For a firmer cookie bake a further 5-10 minutes. Serve warm with vanilla ice cream.",
+    "ingredients": "butter, cream cheese, chocolate, egss, sugar, vanilla, flour, baking soda, salt"
+  },
+  {
+    "recipe_name": "Lobster and Tarragon Risotto",
+    "recipe_description": "Creamy rice with lobster, italian style!",
+    "recipe_steps": "1. Grate parmesan and set aside. 2. Chop the tarragon and set aside. 4. Add tomatoes and rice then, without measuring cup, cook 2 min. Scrape base of pot to loosen rice.",
+    "ingredients": "tarragon, lobster, risotto"
+  },
+  {
+    "recipe_name": "Simple Granola",
+    "recipe_description": "Sweet and tasty granola from scratch",
+    "recipe_steps": "1. Preheat oven to 160°C and line 2 large baking trays with baking paper. 2. Chop nuts. 3. Add oats, seeds, dried fruit and maple syrup and mix.",
+    "ingredients": "nuts, oats, dried fruit, maple syrup"
+  }
+]
